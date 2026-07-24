@@ -137,18 +137,6 @@ Automated data extraction across static & dynamic sites
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tanishq07778&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishq07778&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq07778&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
-
----
 
 ### 🛣️ Roadmap
 
