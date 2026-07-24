@@ -18,7 +18,6 @@ $ whoami
 
 Name        : Tanishq Dubey
 Education   : B.Tech Computer Science Engineering
-Location    : Indore, India
 Interests   : Cybersecurity, Backend Engineering, AI
 Goal        : Offensive Security Engineer
 ```
@@ -90,18 +89,6 @@ React • Tailwind CSS • HTML • CSS
 - Selenium
 - Scrapy
 - Requests
-
----
-
-# 📈 GitHub Stats
-
-> Replace **YOUR_USERNAME** with your GitHub username.
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
